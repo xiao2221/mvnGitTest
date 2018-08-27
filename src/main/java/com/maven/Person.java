@@ -40,5 +40,6 @@ public class Person {
         System.out.println("main in");
         Person per=new Person("tom",34);
         System.out.println(per);
+        System.out.println("and i changed it");
     }
 }
